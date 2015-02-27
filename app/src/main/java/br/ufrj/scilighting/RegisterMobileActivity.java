@@ -106,7 +106,7 @@ public class RegisterMobileActivity extends Activity {
 		registrationIntent.putExtra("sender", "jullianop@gmail.com");
 		startService(registrationIntent);
 
-		// Notificando o usuário
+		// Notificando o usuï¿½rio
 
 		CharSequence contentTitle = "My notification";
 		CharSequence contentText = "Hello World!";
